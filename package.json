@@ -1,7 +1,7 @@
 {
   "name": "lottery",
   "version": "1.0.0",
-  "description": "A decentralized application developed using ethereum",
+  "description": "A decentralized lottery application developed using ethereum",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
