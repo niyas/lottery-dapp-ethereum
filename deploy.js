@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-    "absurd camera lake hurt sniff inquiry liquid bid lift earn security lottery",
+    "<Your Mnemonic>",
     "https://rinkeby.infura.io/cA9UUVGEirI1dErdkLNE"
 );
 
